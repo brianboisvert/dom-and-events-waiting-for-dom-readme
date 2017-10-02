@@ -1,7 +1,9 @@
 tags:
-  - document ready
-  - jquery
+  - DOM
+  - selectors
+  - event
+  - eventListener
 languages:
   - JavaScript
-resources: 
-  - 2
+resources:
+  - 1
